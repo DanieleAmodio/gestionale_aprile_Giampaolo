@@ -1,0 +1,17 @@
+header{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+h1{ 
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+#colonnasx{
+    width: 60%;
+    border: 1px solid black;
+}
+#colonnadx{
+    width: 40%;
+    border: 1px solid black;
+}
